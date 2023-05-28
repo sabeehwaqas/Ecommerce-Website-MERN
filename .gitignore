@@ -1,0 +1,3 @@
+backend/config/.env
+backend/mongoDB.txt
+node_module
